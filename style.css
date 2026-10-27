@@ -39,6 +39,9 @@ footer {
 
 
 @media screen and (min-width: 678px) and (max-width: 902px) {
+  body{
+    color: white;
+  }
   #block{
      height: 20px;
      width: 20px;
